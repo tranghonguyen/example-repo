@@ -1,2 +1,2 @@
 # example-repo
-demo about creating repositories 
+Demo about creating repositories 
